@@ -1,4 +1,5 @@
-# Introduction to Wireframing
+# Wireframing
+## Introduction to Wireframing
 Wireframing is the process of creating a simplified blueprint of a software interface. It is a critical step in the UI/UX design process, helping designers plan layouts, navigation, content placement, and functionality before development begins.
 Wireframes allow teams to:
 Visualize the structure of an app or website
