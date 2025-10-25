@@ -21,10 +21,9 @@ Functionality: Highlights interactive elements and user actions. Example: Bookin
 
 ---
 ## Types of Wireframes
-## Low-Fidelity vs High-Fidelity Wireframes
-
 Wireframes help visualize the structure and functionality of a user interface. There are two main types: **low-fidelity (low-fi)** and **high-fidelity (high-fi)** wireframes.  
 
+## Low-Fidelity vs High-Fidelity Wireframes
 ### **1. Low-Fidelity Wireframes**
 **Definition:** Simple sketches or digital outlines that focus on layout and structure rather than visual design.  
 
